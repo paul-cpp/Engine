@@ -73,6 +73,7 @@ bool vertex2fc::operator ==(const vertex2fc& rhs) const
   return (vertex2f::operator==(rhs) && (color == rhs.color));
 }
 
+//todo
 
 
 #endif  //__VERTEX2FC_H_INCLUDED__
